@@ -12,7 +12,7 @@ $(function(){
 			}
 		}
 
-		var url = "https://infosys-projecta-2021.github.io/Project2_example/data.json";
+		var url = "https://infosys-projecta-2021.github.io/Project2_S/data.json";
 		// 上の行は例示のページ用なので，↑の行をコメント（//を先頭に付ける）して
 		//↓の行でdata.jsonにGithub Pagesを通じて各チームのdata.jsonにアクセスできるURLを得て，コメント//を外す
 		//var url = "https://infosys-projecta-2021.github.io/2021-project2-グループ記号/data.json";
