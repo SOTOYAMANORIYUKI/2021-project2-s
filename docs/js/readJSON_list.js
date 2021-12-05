@@ -16,7 +16,7 @@ $(function(){
 
 		//var json_url = "https://infosys-projecta-2021.github.io/Project2_example/data.json";
 		// data.jsonでの動作が確認できたら，↑の行をコメント（//を先頭に付ける）して，↓の行のコメント//を外す
-		var json_url = "https://infosys-projecta-2021.github.io/2021-project2-S/data.json";
+		var json_url = "https://infosys-projecta-2021.github.io/2021-project2-s/docs/data.json";
 
 		var q = $.urlParam('q'); //?q=検索語で指定されたとき
 		var category = $.urlParam('category'); //?category=カテゴリ名で指定されたとき
