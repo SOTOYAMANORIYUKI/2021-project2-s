@@ -15,7 +15,7 @@ $(function(){
 		//var url = "https://infosys-projecta-2021.github.io/Project2_example/data.json";
 		// 上の行は例示のページ用なので，↑の行をコメント（//を先頭に付ける）して
 		//↓の行でdata.jsonにGithub Pagesを通じて各チームのdata.jsonにアクセスできるURLを得て，コメント//を外す
-		var url = "https://infosys-projecta-2021.github.io/2021-project2-S/data.json";
+		var url = "https://infosys-projecta-2021.github.io/2021-project2-s/data.json";
 
 		//data.jsonから対象の施設を指定された番号で読み出すための処理
 		var id = 0; 
