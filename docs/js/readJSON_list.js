@@ -14,9 +14,9 @@ $(function(){
 
 		var detail_html = "detail_example.html"; //個別詳細形式のページのHTMLファイル
 
-		var json_url = "https://infosys-projecta-2021.github.io/Project2_example/data.json";
+		//var json_url = "https://infosys-projecta-2021.github.io/Project2_example/data.json";
 		// data.jsonでの動作が確認できたら，↑の行をコメント（//を先頭に付ける）して，↓の行のコメント//を外す
-		//var json_url = "https://infosys-projecta-2021.github.io/2021-project2-各チームの記号(A～T)/data.json";
+		var json_url = "https://infosys-projecta-2021.github.io/2021-project2-s/data.json";
 
 		var q = $.urlParam('q'); //?q=検索語で指定されたとき
 		var category = $.urlParam('category'); //?category=カテゴリ名で指定されたとき
