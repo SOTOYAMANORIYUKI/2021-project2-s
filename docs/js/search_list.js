@@ -6,7 +6,7 @@ $(function(){
 
             //readJSON_list.jsを含むリスト形式の検索を表示するhtmlファイル←list_example.htmlから作成する検索結果表示用htmlファイル
             //（検索結果を別の表示にする場合は，一覧形式のhtmlとreadJSON_list.jsとペアで複製する）
-            var search_url = "https://infosys-projecta-2021.github.io/Project2_S/list_example.html";
+            var search_url = "https://infosys-projecta-2021.github.io/Project2_s/list_example.html";
             //var search_url = "https://infosys-projecta-2021.github.io/2021-project2-グループ記号[A-T]/list_example.html";
             
             search_url +='?q='+keyword;//キーワードをURLに追加
