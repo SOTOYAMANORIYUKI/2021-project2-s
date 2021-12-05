@@ -70,12 +70,6 @@ $(function(){
 						$("div#image_list").append(img3_tag);
 					}
 					
-					if(obj.image_file4 != null && obj.image_file4!=""){
-						var img4_tag = '<a href="./photos/'+obj.image_file4+'.jpg" data-lightbox="image-list">';
-						img4_tag += '<img src="./photos/'+obj.image_file4+'_thum.jpg" class="col-3 mb-5 box-shadow"/></a>';
-						$("div#image_list").append(img4_tag);
-					}
-
  				}
 
 				if($("div.star-rating").get(0)){//<div class="star-rating">のタグがあったら
